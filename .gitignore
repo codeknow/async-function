@@ -1,6 +1,8 @@
 .DS_Store
 /.idea
 .idea
+.gitignore
+.gitattributes
 *.swp
 
 # System Files
