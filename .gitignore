@@ -1,0 +1,9 @@
+.DS_Store
+/.idea
+.idea
+*.swp
+
+# System Files
+.DS_Store
+Thumbs.db
+/etc
